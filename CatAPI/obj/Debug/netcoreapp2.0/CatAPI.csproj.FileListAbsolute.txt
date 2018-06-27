@@ -1,0 +1,11 @@
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI\bin\Debug\netcoreapp2.0\CatAPI.deps.json
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI\bin\Debug\netcoreapp2.0\CatAPI.runtimeconfig.json
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI\bin\Debug\netcoreapp2.0\CatAPI.runtimeconfig.dev.json
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI\bin\Debug\netcoreapp2.0\CatAPI.dll
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI\bin\Debug\netcoreapp2.0\CatAPI.pdb
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI\obj\Debug\netcoreapp2.0\CatAPI.csproj.CoreCompileInputs.cache
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI\obj\Debug\netcoreapp2.0\CatAPI.AssemblyInfoInputs.cache
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI\obj\Debug\netcoreapp2.0\CatAPI.AssemblyInfo.cs
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI\obj\Debug\netcoreapp2.0\CatAPI.dll
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI\obj\Debug\netcoreapp2.0\CatAPI.pdb
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI\obj\Debug\netcoreapp2.0\CatAPI.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\bin\Debug\netcoreapp2.0\CatAPI.Tests.deps.json
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\bin\Debug\netcoreapp2.0\CatAPI.Tests.runtimeconfig.json
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\bin\Debug\netcoreapp2.0\CatAPI.Tests.runtimeconfig.dev.json
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\bin\Debug\netcoreapp2.0\CatAPI.Tests.dll
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\bin\Debug\netcoreapp2.0\CatAPI.Tests.pdb
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\bin\Debug\netcoreapp2.0\CatAPI.dll
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\bin\Debug\netcoreapp2.0\CatAPI.pdb
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\obj\Debug\netcoreapp2.0\CatAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\obj\Debug\netcoreapp2.0\CatAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\obj\Debug\netcoreapp2.0\CatAPI.Tests.AssemblyInfoInputs.cache
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\obj\Debug\netcoreapp2.0\CatAPI.Tests.AssemblyInfo.cs
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\obj\Debug\netcoreapp2.0\CatAPI.Tests.csproj.CopyComplete
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\obj\Debug\netcoreapp2.0\CatAPI.Tests.dll
+C:\Users\ccpenge\source\repos\CatAPI\CatAPI.Tests\obj\Debug\netcoreapp2.0\CatAPI.Tests.pdb
