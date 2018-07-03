@@ -13125,23 +13125,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ccpenge\\.nuget\\packages\\": {},
+    "C:\\Users\\umerh\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ccpenge\\source\\repos\\CatAPI\\CatAPI\\CatAPI.csproj",
+      "projectUniqueName": "C:\\Users\\umerh\\source\\repos\\CatAPI\\CatAPI\\CatAPI.csproj",
       "projectName": "CatAPI",
-      "projectPath": "C:\\Users\\ccpenge\\source\\repos\\CatAPI\\CatAPI\\CatAPI.csproj",
-      "packagesPath": "C:\\Users\\ccpenge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ccpenge\\source\\repos\\CatAPI\\CatAPI\\obj\\",
+      "projectPath": "C:\\Users\\umerh\\source\\repos\\CatAPI\\CatAPI\\CatAPI.csproj",
+      "packagesPath": "C:\\Users\\umerh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\umerh\\source\\repos\\CatAPI\\CatAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ccpenge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\umerh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

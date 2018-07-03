@@ -1,0 +1,63 @@
+﻿@section Scripts
+    {
+    <script>
+        $(document).ready(function (e) {
+            $("#Select_Category").change(function () {
+                var selectedCategory = $("#Select_Category option:selected").text()
+                GetImagesForSelectedCategory(selectedCategory)
+            });
+
+            function GetImagesForSelectedCategory(category) {
+                $.ajax
+                    ({
+                        type: "GET",
+                        url: '@Url.Action("GetImagesForCategory", "Home")',
+                        dataType: 'Json',
+                        async: true,
+                        data: {category: category},
+                        success: function (data, status, xhr) {
+                            var i = 0;
+                            var alternativeText = "category";
+                            $('.CategoryImages').empty();
+                            $.each(data, function (index, value) {
+                                var $img = $('<img>', {
+                                    width: 350, height: 250, src: value });
+                                $img.appendTo($('.CategoryImages'));
+                                console.log($img);
+                            });
+                        },
+                        error: function (jqXhr, textStatus, errorMessage) {
+                            $('p').append('Error: ' + errorMessage);
+                        }
+                    });
+            }
+        });
+
+
+    </script>
+}
+
+@model CategoriesViewModel
+<html>
+<head>
+    <meta name="viewport" content="width=device-width">
+
+</head>
+<body>
+    @{
+        ViewData["Title"] = "Home Page";
+    }
+
+    @using (Html.BeginForm("SelectCateogry", "Home", FormMethod.Post, new { id = "Category_form" }))
+    {
+        <div class="CategoryList">
+            @Html.DropDownList("Select Category",
+                                                   new SelectList(Model.lstCategories, "Value", "Text"),
+                                                   "Select Category")
+        </div>
+    }
+
+    <div class="CategoryImages">
+    </div>
+</body>
+</html>
